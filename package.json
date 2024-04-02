@@ -1,11 +1,12 @@
 {
   "name": "nx-repro",
   "packageManager": "yarn@3.4.1",
-  "dependencies": {
-    "nx": "18.1.2"
-  },
   "devDependencies": {
     "nx": "18.1.2"
   },
+  "engines": {
+    "node": "18.13.0"
+  },
   "nx": {}
 }
+
